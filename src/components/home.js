@@ -4,8 +4,8 @@ const Home = () => {
     return (
         <div className='container-fluid mt-5 bg-primary'>
         <div className='row'>
-            <div className='col-md-6'>
-                <h1>Welcome to #Brand Name</h1>
+            <div className='col-md-6 bg-warning pt-5'>
+                <h1 className='ps-5'>Welcome to #Brand Name</h1>
             </div>
         </div>
         </div>
