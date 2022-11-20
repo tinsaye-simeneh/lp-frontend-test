@@ -11,7 +11,7 @@ const CoursePage = () => {
         </h1>
       </div>
 
-      <div className="row">
+      <div className="row mx-auto" style={{width:'85%'}}>
         <div className="col-md-3 col-12 mt-5 mx-auto">
           <div className="card text-center bg-secondary">
             <div className="card-body">
