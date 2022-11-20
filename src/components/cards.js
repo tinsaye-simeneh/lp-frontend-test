@@ -2,8 +2,6 @@ import React from "react";
 
 const Card = ({title, descriptionText, link, linkState}) => {
     return (
-        <div className="container">
-      <div className="row mx-auto" style={{width:'85%'}}>
       <div className="col-md-3 col-12 mt-5 mx-auto">
         <div className="card text-center bg-secondary">
           <div className="card-body">
@@ -22,8 +20,6 @@ const Card = ({title, descriptionText, link, linkState}) => {
             </a>
           </div>
         </div>
-      </div>
-      </div>
 </div>
     );
 };
