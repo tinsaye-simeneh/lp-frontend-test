@@ -67,8 +67,9 @@ const CoursePage = () => {
       </div>
 
       <div className="row mt-3 mb-3">
-        <div className="col-md-5 col-12 mx-auto">
-          <div className="bg-white text-black py-2 ml-auto">Frontend Web Development</div>
+        <div className="col-md-5 col-12 mx-auto d-flex">
+          <span className="bg-white text-black py-2 me-auto">Frontend Web Development</span>
+          <a href="#frontend" className="text-decoration-underline text-primary"> View all </a>
         </div>
       </div>
 
