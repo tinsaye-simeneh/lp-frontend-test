@@ -14,8 +14,13 @@ const Home = () => {
           </p>
           <div className="row">
             <div className="col-md-3">
-              <div className="btn btn-white border border-primary">
+              <div className="btn btn-white border border-primary px-3" style={{fontWeight:'500'}}>
                 Get Started
+              </div>
+            </div>
+            <div className="col-md-5">
+              <div className="btn btn-white" style={{fontWeight:'500'}}>
+                Found Out More
               </div>
             </div>
           </div>
