@@ -16,8 +16,8 @@ const CoursePage = () => {
             <div className="card text-center">
               <div className="card-body">
                     <h5 className="card-title"> FRONTEND </h5>
-                    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#frontend" className="btn btn-white text-decoration-underline">View</a>
+                    <p className="card-text mt-3" style={{fontSize:'13px'}}>Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#frontend" className="btn btn-white py-0 text-decoration-underline">View</a>
                 </div>
                 </div>
                 </div>
