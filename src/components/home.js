@@ -14,7 +14,7 @@ const Home = () => {
             Register and get a free access to our Resources{" "}
           </p>
           <div className="row">
-            <div className="col-md-3 col-12 get-btn">
+            <div className="col-md-4 col-12 get-btn">
               <div className="btn btn-white border border-primary px-4 py-2" style={{fontWeight:'500'}}>
                 Get Started
               </div>
