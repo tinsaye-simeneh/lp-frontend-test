@@ -6,7 +6,7 @@ const CoursePage = () => {
   return (
     <div className="container mt-5 bg-white">
       <div className="row">
-        <h1 className="text-center" style={{ fontSize: "26px" }}>
+        <h1 className="text-center" style={{ fontSize: "22px" }}>
           {" "}
           Popular courses{" "}
         </h1>
@@ -52,6 +52,13 @@ const CoursePage = () => {
           link="#uiux"
           linkState="Coming Soon"
         />
+      </div>
+
+      <div className="row mt-5 pt-5">
+        <h1 className="text-center" style={{ fontSize: "22px" }}>
+          {" "}
+          Explore Our Resources{" "}
+        </h1>
       </div>
 
     </div>
