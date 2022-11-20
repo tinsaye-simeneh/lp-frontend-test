@@ -5,4 +5,8 @@
 .home-illust{
     display: none;
 }
+.left-text{
+    margin: 0 auto;
+    text-align: center
+}
 }
