@@ -13,11 +13,11 @@ const CoursePage = () => {
 
     <div className="row">
         <div className="col-md-3 col-12 mt-5">
-            <div className="card">
+            <div className="card text-center">
               <div className="card-body">
                     <h5 className="card-title"> FRONTEND </h5>
                     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" className="btn btn-primary">Go somewhere</a>
+                    <a href="#frontend" className="btn btn-white text-decoration-underline">View</a>
                 </div>
                 </div>
                 </div>
