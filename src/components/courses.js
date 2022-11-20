@@ -1,6 +1,7 @@
 import React from "react";
 import "../styles/index.css";
 import Card from "./cards";
+import ResourcesLink from "./resources-link";
 
 const CoursePage = () => {
   return (
@@ -66,12 +67,8 @@ const CoursePage = () => {
         </div>
       </div>
 
-      <div className="row mt-3 mb-3">
-        <div className="col-md-5 col-12 mx-auto d-flex">
-          <span className="bg-white text-black py-2 me-auto">Frontend Web Development</span>
-          <a href="#frontend" className="text-decoration-underline text-primary"> View all </a>
-        </div>
-      </div>
+        <ResourcesLink title="Frontend Web Development"/>
+      
 
     </div>
   );
