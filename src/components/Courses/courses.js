@@ -55,6 +55,7 @@ const CoursePage = () => {
         />
       </div>
 
+      <div className="row mb-5">
       <div className="row mt-5 pt-5">
         <h1 className="text-center" style={{ fontSize: "22px" }}>
           {" "}
@@ -80,7 +81,7 @@ const CoursePage = () => {
       <ResourcesLink title="Frontend Web Development" link="#frontend"/>
         <ResourcesLink title="Backend Web Development" link="#backend"/>
         <ResourcesLink title="UI/UX Design" link="#uiux"/>
-
+</div>
 
     </div>
   );
