@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div className="container mt-5 bg-white">
       <div className="row">
-        <div className="col-md-6 col-12 text-center pt-5 mt-5 pb-5 bg-warning">
+        <div className="col-md-6 col-12 text-center pt-5 mt-5 pb-5 bg-white">
           <h1 className="mt-5">Welcome to #Brand Name</h1>
           <p className="mt-5"> A place where access your hidden skills </p>
           <p className="mt-3 pb-5">
