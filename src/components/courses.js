@@ -26,7 +26,7 @@ const CoursePage = () => {
           linkState="View"
         />
         <Card
-          title="UI.UX Design"
+          title="UI/UX DESIGN"
           descriptionText="UI/UX Designer"
           link="#uiux"
           linkState="View"
