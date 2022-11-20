@@ -19,7 +19,7 @@ const CoursePage = () => {
           link="#frontend"
           linkState="View"
         />
-         <Card
+        <Card
           title="BACKEND"
           descriptionText="Backend Developer"
           link="#backend"
@@ -40,7 +40,7 @@ const CoursePage = () => {
           link="#fullstack"
           linkState="Coming Soon"
         />
-         <Card
+        <Card
           title="APP DEV."
           descriptionText="App Developer"
           link="#AppDeveloper"
@@ -62,12 +62,9 @@ const CoursePage = () => {
       </div>
       <div className="row mt-3 mb-3">
         <div className="col-md-4 col-12 mx-auto">
-        <div className="bg-secondary text-white py-2 text-center">
-            Videos
-        </div>
+          <div className="bg-secondary text-white py-2 text-center">Videos</div>
         </div>
       </div>
-
     </div>
   );
 };
