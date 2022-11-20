@@ -1,6 +1,7 @@
 import React from "react";
-import homeIllust from "../assets/images/homeIllust.svg";
+
 import '../styles/index.css' 
+import homeIllust from "../assets/images/homeIllust.svg";
 
 const Home = () => {
   return (
