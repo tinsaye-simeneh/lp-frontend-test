@@ -68,7 +68,19 @@ const CoursePage = () => {
       </div>
 
         <ResourcesLink title="Frontend Web Development" link="#frontend"/>
-        <ResourcesLink title="Frontend Web Development" link="#frontend"/>
+        <ResourcesLink title="Backend Web Development" link="#backend"/>
+        <ResourcesLink title="UI/UX Design" link="#uiux"/>
+
+        <div className="row mt-3 mb-3">
+        <div className="col-md-5 col-12 mx-auto">
+          <div className="bg-secondary text-white py-2 text-center">Books</div>
+        </div>
+      </div>
+
+      <ResourcesLink title="Frontend Web Development" link="#frontend"/>
+        <ResourcesLink title="Backend Web Development" link="#backend"/>
+        <ResourcesLink title="UI/UX Design" link="#uiux"/>
+
 
     </div>
   );
