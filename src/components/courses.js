@@ -67,7 +67,7 @@ const CoursePage = () => {
         </div>
       </div>
 
-        <ResourcesLink title="Frontend Web Development"/>
+        <ResourcesLink title="Frontend Web Development" link="#frontend"/>
       
 
     </div>
