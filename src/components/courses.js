@@ -12,10 +12,27 @@ const CoursePage = () => {
         </h1>
       </div>
 
-        <div className="row">
-            <Card title="Web Developer" descriptionText="Web Developer" link="https://www.youtube.com/watch?v=I2UBjN5ER4s" linkState="Get Started"/>
-    </div>
+      <div className="row mx-auto" style={{ width: "85%" }}>
+        <Card
+          title="FRONTEND"
+          descriptionText="Frontend Developer"
+          link="#frontend"
+          linkState="View"
+        />
+         <Card
+          title="BACKEND"
+          descriptionText="Backend Developer"
+          link="#backend"
+          linkState="View"
+        />
+        <Card
+          title="UI.UX Design"
+          descriptionText="UI/UX Designer"
+          link="#uiux"
+          linkState="View"
+        />
       </div>
+    </div>
   );
 };
 
