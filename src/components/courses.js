@@ -32,6 +32,28 @@ const CoursePage = () => {
           linkState="View"
         />
       </div>
+
+      <div className="row mx-auto" style={{ width: "85%" }}>
+        <Card
+          title="FULLSTACK"
+          descriptionText="Fullstack Developer"
+          link="#fullstack"
+          linkState="Coming Soon"
+        />
+         <Card
+          title="APP DEV."
+          descriptionText="App Developer"
+          link="#AppDeveloper"
+          linkState="Coming Soon"
+        />
+        <Card
+          title="GRAPHICS DESIGN"
+          descriptionText="Graphics Designer"
+          link="#uiux"
+          linkState="Coming Soon"
+        />
+      </div>
+
     </div>
   );
 };
