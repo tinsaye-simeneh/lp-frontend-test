@@ -14,7 +14,9 @@ const Home = () => {
           </p>
           <div className="row">
             <div className="col-md-3">
-              <div className="btn btn-white border border-primary">Get Started</div>
+              <div className="btn btn-white border border-primary">
+                Get Started
+              </div>
             </div>
           </div>
         </div>
