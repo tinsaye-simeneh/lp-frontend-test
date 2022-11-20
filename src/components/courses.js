@@ -11,18 +11,65 @@ const CoursePage = () => {
         </h1>
       </div>
 
-    <div className="row">
-        <div className="col-md-3 col-12 mt-5">
-            <div className="card text-center">
-              <div className="card-body">
-                    <h5 className="card-title"> FRONTEND </h5>
-                    <p className="card-text mt-3" style={{fontSize:'13px'}}>Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#frontend" className="btn btn-white py-0 text-decoration-underline">View</a>
-                </div>
-                </div>
-                </div>
-    </div>
-
+      <div className="row">
+        <div className="col-md-3 col-12 mt-5 mx-auto">
+          <div className="card text-center bg-secondary">
+            <div className="card-body">
+              <h5 className="card-title text-white"> FRONTEND </h5>
+              <p
+                className="card-text mt-3 text-white"
+                style={{ fontSize: "13px" }}
+              >
+                Step by step guide to become a frontend developer in 2022
+              </p>
+              <a
+                href="#frontend"
+                className="btn btn-white py-0 text-decoration-underline text-white"
+              >
+                View
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="col-md-3 col-12 mt-5 mx-auto">
+          <div className="card text-center bg-secondary">
+            <div className="card-body">
+              <h5 className="card-title text-white"> FRONTEND </h5>
+              <p
+                className="card-text mt-3 text-white"
+                style={{ fontSize: "13px" }}
+              >
+                Step by step guide to become a frontend developer in 2022
+              </p>
+              <a
+                href="#frontend"
+                className="btn btn-white py-0 text-decoration-underline text-white"
+              >
+                View
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="col-md-3 col-12 mt-5 mx-auto">
+          <div className="card text-center bg-secondary">
+            <div className="card-body">
+              <h5 className="card-title text-white"> FRONTEND </h5>
+              <p
+                className="card-text mt-3 text-white"
+                style={{ fontSize: "13px" }}
+              >
+                Step by step guide to become a frontend developer in 2022
+              </p>
+              <a
+                href="#frontend"
+                className="btn btn-white py-0 text-decoration-underline text-white"
+              >
+                View
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };
