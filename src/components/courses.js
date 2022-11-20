@@ -60,6 +60,13 @@ const CoursePage = () => {
           Explore Our Resources{" "}
         </h1>
       </div>
+      <div className="row mt-3 mb-3">
+        <div className="col-md-4 col-12 mx-auto">
+        <div className="bg-secondary text-white py-2 text-center">
+            Videos
+        </div>
+        </div>
+      </div>
 
     </div>
   );
