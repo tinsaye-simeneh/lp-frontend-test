@@ -1,10 +1,14 @@
 .nav-link{
-    margin-right: 1rem;
+    margin-right: 1.2rem;
     color: #000;
-}
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    font-weight: 400;
+    }
 .navbar-nav .nav-item .nav-link:hover{
     color: gray;
     border-bottom: 3px solid blue;
+    cursor: pointer;
 }
 .navbar-nav .nav-item .nav-link.active{
     color: gray;
