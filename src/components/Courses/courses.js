@@ -1,5 +1,5 @@
 import React from "react";
-import "../../styles/index.css";
+import "../../styles/courses.css";
 import Card from "./cards";
 import ResourcesLink from "./resources-link";
 

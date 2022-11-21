@@ -1,7 +1,3 @@
-.text-black{
-    color: #000000;
-    }
-
 @media screen and (max-width: 768px) {
 .get-btn{
     margin-bottom: 2rem;
