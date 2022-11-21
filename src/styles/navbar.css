@@ -4,7 +4,9 @@
 }
 .navbar-nav .nav-item .nav-link:hover{
     color: gray;
+    border-bottom: 3px solid blue;
 }
 .navbar-nav .nav-item .nav-link.active{
     color: gray;
+    border-bottom: 3px solid blue;
 }
