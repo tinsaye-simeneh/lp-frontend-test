@@ -8,6 +8,6 @@ import Navbar from './components/navbar/navbar';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
- <CoursePage/>
+ <Navbar/>
 );
 
