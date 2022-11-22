@@ -1,1 +1,1 @@
-# E-learning path website
+# E-learning website
