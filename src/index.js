@@ -4,12 +4,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap-jquery';
 
 import Navbar from './components/navbar/navbar';
-import TopNav from './components/navbar/top-nav';
 
 function App() {
     return (
       <>
-      <TopNav/>
       <Navbar/>
       </>
     );
